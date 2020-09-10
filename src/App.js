@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       Hello World {2+3}<br/>
-      stop
+      Pawinee
 
     </div>
   );
