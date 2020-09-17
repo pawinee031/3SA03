@@ -20,7 +20,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(50px + 5vmin);
+  font-size: calc(70px + 10vmin);
   color: rgb(175, 131, 131);
   
 }
@@ -54,3 +54,9 @@
   background: rgb(107, 139, 243);
   background-image: url("ch1.png");
  } 
+ .center {
+   margin: auto;
+   width: 30%;
+   border: 3px solid blue;
+   padding: 30%;
+ }
