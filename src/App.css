@@ -22,6 +22,7 @@
   justify-content: center;
   font-size: calc(50px + 5vmin);
   color: rgb(175, 131, 131);
+  
 }
 
 .App-link {
@@ -40,7 +41,7 @@
 .card {
   display: inline-block;
   text-align: center;
-  width: 3em;
+  width: 4em;
   font-size: 3em;
   box-shadow: 0 5px 8px 0 rgba(38, 6, 117, 1);
   margin: 1em;
